@@ -33,3 +33,21 @@ vncconfig -iconic &
 This will work with xfce desktop environments but feel free to use gnome or kde if needed. 
 
 
+## Extend the concepts
+
+- The second part to the original guide explains how to actually use VNC through SSH tunnel: https://serverspace.io/support/help/vnc-connection-ssh-tunnel-ubuntu-20-04/
+
+- Linode has a lot of guides on Remote Desktops: https://www.linode.com/docs/guides/applications/remote-desktop/
+
+- Try a different VNC Server: x11vnc which David Dombal shows in his two step video. 
+
+1) https://www.youtube.com/watch?v=mIdF7K3Nmlw
+
+2) https://www.youtube.com/watch?v=3K1hUwxxYek
+
+This is what I thought VNC should look like initially since it actually allows you to remote in and control the desktop as is
+
+- My next probable steps would be to install Apache Guacamole, VNC through Docker on the Web: https://www.linode.com/docs/guides/installing-apache-guacamole-through-docker/
+
+- Figure out how to VNC in over maybe VPN connection, access your computer from anywhere
+
