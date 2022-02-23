@@ -2,7 +2,7 @@
 
 TightVNC is a fast easy to use VNC application to launch on any sort of linux machine. 
 
-## How to set up? 
+## How to set up? (Serverside) 
 
 Follow this guide to launch on a local network: https://serverspace.io/support/help/install-tightvnc-server-on-ubuntu-20-04/
 
