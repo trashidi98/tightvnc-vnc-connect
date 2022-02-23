@@ -32,6 +32,7 @@ vncconfig -iconic &
 
 This will work with xfce desktop environments but feel free to use gnome or kde if needed. 
 
+Here's your final product ![](https://github.com/trashidi98/tightvnc-vnc-connect/blob/master/connected-xfce.png)
 
 ## Extend the concepts
 
