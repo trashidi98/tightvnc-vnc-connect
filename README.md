@@ -40,11 +40,13 @@ Here's your final product ![](https://github.com/trashidi98/tightvnc-vnc-connect
 
 - Linode has a lot of guides on Remote Desktops: https://www.linode.com/docs/guides/applications/remote-desktop/
 
-- Try a different VNC Server: x11vnc which David Dombal shows in his two step video. 
+- Try a different VNC Server: x11vnc which David Dombal shows in his two step video
 
 1) https://www.youtube.com/watch?v=mIdF7K3Nmlw
 
 2) https://www.youtube.com/watch?v=3K1hUwxxYek
+
+3) The original guide he references is here https://www.crazy-logic.co.uk/projects/computing/how-to-install-x11vnc-vnc-server-as-a-service-on-ubuntu-20-04-for-remote-access-or-screen-sharing
 
 This is what I thought VNC should look like initially since it actually allows you to remote in and control the desktop as is
 
